@@ -1,5 +1,6 @@
-#Description
+# Description
 This project is a contact management application built with React and Semantic UI. The primary goal of this project was to gain familiarity with the Semantic UI library, which was used to create a clean and intuitive user interface. With this application, users can easily manage their contacts and keep their information organized. The project also served as an opportunity to practice React development and explore new features and techniques.
+
 
 # Getting Started with Create React App
 
